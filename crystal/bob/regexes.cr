@@ -1,0 +1,1 @@
+p "hello".match /[\d]/
